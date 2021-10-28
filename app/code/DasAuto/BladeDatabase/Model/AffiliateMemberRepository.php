@@ -27,7 +27,13 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
     {
         $factory = $this->collectionFactory->create();
         $items = $factory->getItems();
-        return $items;
+        //return $items;
+
+        $data = [];
+        foreach ($items as $item) {
+            $data[] = $item->getData();
+        }
+        return $data;
 
         /*$writer = new \Zend\Log\Writer\Stream("C:/xampp/htdocs/magento24/var/log/test.log");
         $logger = new \Zend\Log\Logger();
