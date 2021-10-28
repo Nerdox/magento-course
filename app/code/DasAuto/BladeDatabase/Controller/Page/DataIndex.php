@@ -41,13 +41,29 @@ class DataIndex extends Action
         */
 
         /*
-        $affiliateMember->addData(['name' => "Zozko", 'address' => "HXY, Bratislava", 'status' => true, 'phone_number' => "0905963210"]);
+        $affiliateMember->addData([
+            'name' => "Zozko",
+            'address' => "HXY, Bratislava",
+            'status' => true,
+            'phone_number' => "0905963210"
+        ]);
         $affiliateMember->save();
         */
 
         /*
         $member = $affiliateMember->load(3);
         $member->delete();
+        */
+
+        /*
+        $collection = $affiliateMember->getCollection()
+                      ->addFieldToSelect(["name", "status"])
+                      ->addFieldToFilter("name", ['eq' => "Zozko"]);
+
+        foreach ($collection as $item) {
+            print_r($item->getData());
+            echo "<br>";
+        }
         */
     }
 }
