@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c5f56ad-5b0e-4ab9-b128-4a8265a06c5b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallSchema.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="e#130#164#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#131#180#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeSchema.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="e#131#166#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/ResourceModel/AffiliateMember.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/AffiliateMember.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="e#131#173#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/frontend/routes.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Controller/Page/DataIndex.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#141#189#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/module.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <folding>
+                <element signature="e#131#182#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getrea</find>
+      <find>symlink</find>
+      <find>prefer</find>
+      <find>DasAuto\BladeModule\Model\Pencil</find>
+      <find>book</find>
+      <find>$colorBrightness</find>
+      <find>view\layou</find>
+      <find>file_put_contents(C:/xampp/htdocs/magento24/generated/metadata/primary|global|plugin-list.php): failed to open stream</find>
+      <find>$cacheId = implode('|', $this-&gt;scopePriorityScheme) . &quot;|&quot; . $this-&gt;cacheId;</find>
+      <find>greeting</find>
+      <find>printHeavyServiceMessage</find>
+      <find>$cacheLoad = $this-&gt;loadModulesCache();</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\magento24</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/BigSize.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/NormalSize.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/GreenColor.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/PencilInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/Color.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/Size.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/PInterface/BigPencil.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/CImplementation.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/Book.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/DBook.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/Student.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/HighBrightness.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/MediumBrightness.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/LowBrightness.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/Brightness.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/RedColor.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/YellowColor.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/PencilFactory.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/Pencil.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution2.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution3.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Observer/LogTextAtCheckout.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/framework/Interception/PluginListGenerator.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Observer/CustomEvent1.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/events.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/HeavyService.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Controller/Page/CBlade.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Console/Command/BladeCommand.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/Console/Command/HelloWorld.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/reigstration.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/frontend/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/NoRoute.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/NoRouteHandler.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/frontend/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/Router.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/ResponseType.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallData.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallSchema.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeData.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeSchema.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/ResourceModel/AffiliateMember.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/AffiliateMember.php" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/frontend/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Controller/Page/DataIndex.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-codeception" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-php-api" />
+      <path value="$PROJECT_DIR$/vendor/allure-framework/allure-phpunit" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/pelago/emogrifier" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/mcrypt_compat" />
+      <path value="$PROJECT_DIR$/vendor/weew/helpers-array" />
+      <path value="$PROJECT_DIR$/vendor/true/punycode" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/lusitanian/oauth" />
+      <path value="$PROJECT_DIR$/vendor/christian-riesen/base32" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-crt-php" />
+      <path value="$PROJECT_DIR$/vendor/phpcompatibility/php-compatibility" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-ordermanagement" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-kp" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-kp-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-onsitemessaging" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-core" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/vendor/braintree/braintree_php" />
+      <path value="$PROJECT_DIR$/vendor/donatj/phpuseragentparser" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-webdriver" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-sequence" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/astock/stock-api-libphp" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension-sms" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension-chat" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi-async" />
+      <path value="$PROJECT_DIR$/vendor/magento/google-shopping-ads" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-multishipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-amqp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-checkout" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-metadata" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-luma" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-usps" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento2-functional-testing-framework" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-weee-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-version" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-contact" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-frontend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-store-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-adwords" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-multishipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-shipping-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cookie" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-de_de" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-2-invisible" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-quote-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-ui-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sitemap" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-captcha" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/composer-root-update-plugin" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-nl_nl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout-agreements" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-metadata-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-page-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-3-invisible" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservations-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tinymce-3" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-dhl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-alert" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-two-factor-auth" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-bundle-options" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-video" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-zh_hans_cn" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-asset-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-renditions-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservation-cli" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-robots" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-cms-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-webapi-extension" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-cms-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-remote-storage" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cache-invalidate" />
+      <path value="$PROJECT_DIR$/vendor/magento/composer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rss" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-aws-s3" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-multi-dimensional-indexer-api" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-api" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-persistent" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-validation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-shipping" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento2-base" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cron" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cardinal-commerce" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-variable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-math" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-crypt" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento-coding-standard" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-send-friend-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-form" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-integration" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-dependency-plugin" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-eav-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-soap" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout-agreements-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-inputfilter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-amqp-store" />
+      <path value="$PROJECT_DIR$/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-http" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-psr7bridge" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-send-friend" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configuration" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-i18n" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-en_us" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-loader" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-catalog" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-server" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-db" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-authorization" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-config" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-inventory" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-serializer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-uri" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-sales" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-wishlist" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-view" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-release-notification" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-filter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-search" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-validator" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-console" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales-api" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-di" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-json" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-api" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mvc" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-ui" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-text" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-deploy" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-es_es" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mail" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-captcha" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-export-stock-api" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-log" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-translation" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-session" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-setup-fixture-generator" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-assistance" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-marketplace" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-pt_br" />
+      <path value="$PROJECT_DIR$/vendor/magento/inventory-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/yotpo/magento2-module-yotpo-reviews" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-csp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-version-2-checkbox" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-swatches-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote" />
+      <path value="$PROJECT_DIR$/vendor/php-webdriver/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-asynchronous-operations" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-migration" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-adminhtml-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-paypal" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-storage" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-deduction-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-requisition-list" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configuration-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog-ui" />
+      <path value="$PROJECT_DIR$/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ui" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/magento/zendframework1" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-validation-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backup" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-config" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-email" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-payments" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-gift-message" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-page-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-sequence" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-configurable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping-api" />
+      <path value="$PROJECT_DIR$/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-contact" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-configurable-options" />
+      <path value="$PROJECT_DIR$/vendor/paypal/module-braintree-core" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-encryption-key" />
+      <path value="$PROJECT_DIR$/vendor/paypal/module-braintree-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-downloadable-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger-webapi-async" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-ims" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-new-relic-reporting" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-related-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-send-friend" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-blank" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-client-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-advanced-pricing-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-newsletter-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-store" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-reports" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-instant-purchase" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-securitytxt" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-weee" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-ui" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-bundle-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-directory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/league/iso3166" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-ims-api" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-api" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-developer" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-vault-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-vault" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-require-js" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch-7" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-elasticsearch-6" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-message-queue" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-review" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-user" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-message-queue" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer-log" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-graph-ql-cache" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-fedex" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-low-quantity-notification-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-fr_fr" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-reservations" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-payment" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-content-synchronization-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-asset" />
+      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-login-as-customer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-eav" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-selection" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-downloadable-links" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-catalog-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-distance-based-source-selection-api" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-client" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-and-login-with-amazon-core-module" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-compare-list-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/amzn/login-with-amazon-module" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-module" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-renditions" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-visual-merchandiser" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-catalog-frontend-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ups" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-advanced-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-gift-message-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-mysql-mq" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-directory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-in-store-pickup-api" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-export-stock" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger-webapi" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-admin-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-re-captcha-user" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-amqp" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-source-selection-api" />
+      <path value="$PROJECT_DIR$/vendor/csharpru/vault-php-guzzle6-transport" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-product-alert" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-adobe-stock-image-api" />
+      <path value="$PROJECT_DIR$/vendor/csharpru/vault-php" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-inventory-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework-bulk" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-admin-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal-captcha" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-graph-ql" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-gallery-synchronization-metadata" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-configurable-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-currency-symbol" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-grouped-product-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-inventory-advanced-checkout" />
+      <path value="$PROJECT_DIR$/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/2tvenom/cborencode" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/spomky-labs/otphp" />
+      <path value="$PROJECT_DIR$/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/tubalmartin/cssmin" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/temando/module-shipping-remover" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/hoa/consistency" />
+      <path value="$PROJECT_DIR$/vendor/hoa/ustring" />
+      <path value="$PROJECT_DIR$/vendor/hoa/event" />
+      <path value="$PROJECT_DIR$/vendor/hoa/file" />
+      <path value="$PROJECT_DIR$/vendor/hoa/stream" />
+      <path value="$PROJECT_DIR$/vendor/hoa/iterator" />
+      <path value="$PROJECT_DIR$/vendor/hoa/protocol" />
+      <path value="$PROJECT_DIR$/vendor/hoa/exception" />
+      <path value="$PROJECT_DIR$/vendor/hoa/console" />
+      <path value="$PROJECT_DIR$/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-file" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-redis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/credis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/php-redis-session-abstract" />
+      <path value="$PROJECT_DIR$/vendor/vertex/sdk" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/less.php" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-address-validation" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-address-validation-api" />
+      <path value="$PROJECT_DIR$/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/tedivm/jshrink" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-rule-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-shipping-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/sample-data-media" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-widget-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-links-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-sample-data" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="276" />
+    <option name="y" value="-13" />
+    <option name="width" value="1400" />
+    <option name="height" value="854" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="ResourceModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="Setup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="DasAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="BladeDatabase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-catalog-cms-graph-ql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-url-rewrite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-url-rewrite" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-url-rewrite" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento24" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-url-rewrite" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\magento24\app\code\DasAuto\BladeDatabase\etc" />
+      <recent name="C:\xampp\htdocs\magento24\app\code\DasAuto\BladeDatabase" />
+      <recent name="C:\xampp\htdocs\magento24\app\code\DasAuto\BladeModule\Model" />
+      <recent name="C:\xampp\htdocs\magento24\app\code\DasAuto\BladeModule\Interface" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5f56ad-5b0e-4ab9-b128-4a8265a06c5b" name="Default Changelist" comment="" />
+      <created>1635231170529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635231170529</updated>
+      <workItem from="1635231171733" duration="95000" />
+      <workItem from="1635231363471" duration="208000" />
+      <workItem from="1635232819369" duration="56418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56721000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.23293608" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.23293608" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/etc/frontend/events.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Interception/PluginListGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="153" column="23" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/Color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Observer/LogTextAtCheckout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+          <folding>
+            <element signature="e#132#169#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Api/Brightness.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Observer/CustomEvent1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#132#169#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/HeavyService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/Pencil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#44#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/events.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Plugin/PluginSolution2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/DasAuto/BladeModule/Console/Command/BladeCommand/Interceptor.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Console/Command/HelloWorlds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Console/Command/HelloWorld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#139#185#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Console/Command/BladeCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#138#184#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-end-line="3" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/etc/frontend/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/App/Router/NoRouteHandlerInterface.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="54" column="51" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-url-rewrite/etc/adminhtml/di.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-url-rewrite/Controller/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-url-rewrite/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-url-rewrite/etc/frontend/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Controller/Page/CBlade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#54#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/Model/CImplementation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-url-rewrite/etc/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/NoRouteHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#140#180#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/frontend/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/frontend/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/DasAuto/BladeRequest/Controller/Page/ResponseType/Interceptor.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/ResponseType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="e#139#179#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/App/Router/NoRouteHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="45" column="105" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/Controller/Page/NoRoute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#140#180#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeRequest/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#131#180#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding>
+            <element signature="e#131#182#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/InstallSchema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#130#164#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/ResourceModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeModule/etc/frontend/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/etc/frontend/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/AffiliateMember.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#131#173#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Model/ResourceModel/AffiliateMember.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Setup/UpgradeSchema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#131#166#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/DasAuto/BladeDatabase/Controller/Page/DataIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#141#189#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

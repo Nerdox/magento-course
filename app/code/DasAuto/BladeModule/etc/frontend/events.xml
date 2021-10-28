@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="checkout_submit_all_after">
+        <observer name="log_text" instance="DasAuto\BladeModule\Observer\LogTextAtCheckout" shared="false" />
+    </event>
+
+    <event name="custom_event_1">
+        <observer name="greeting" instance="DasAuto\BladeModule\Observer\CustomEvent1" shared="false" />
+    </event>
+</config>

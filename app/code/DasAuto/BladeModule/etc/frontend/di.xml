@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <!--<preference for="DasAuto\BladeModule\PInterface\PencilInterface" type="DasAuto\BladeModule\PInterface\RedPencil" />-->
+    <preference for="Magento\Catalog\Api\ProductRepositoryInterface" type="DasAuto\BladeModule\Model\CImplementation" />
+
+    <preference for="DasAuto\BladeModule\Api\PencilInterface" type="DasAuto\BladeModule\Model\Pencil" />
+    <preference for="DasAuto\BladeModule\Api\Color" type="DasAuto\BladeModule\Model\YellowColor" />
+    <preference for="DasAuto\BladeModule\Api\Size" type="DasAuto\BladeModule\Model\NormalSize" />
+    <preference for="DasAuto\BladeModule\Api\Brightness" type="DasAuto\BladeModule\Model\MediumBrightness" />
+
+    <virtualType name="virtualType" type="DasAuto\BladeModule\Model\YellowColor">
+        <arguments>
+            <argument name="colorBrightness" xsi:type="object">DasAuto\BladeModule\Model\HighBrightness</argument>
+        </arguments>
+    </virtualType>
+
+    <type name="DasAuto\BladeModule\Model\Pencil">
+        <arguments>
+            <argument name="pencilColor" xsi:type="object">virtualType</argument>
+            <argument name="pencilSize" xsi:type="object">DasAuto\BladeModule\Model\BigSize</argument>
+        </arguments>
+    </type>
+
+    <!--
+    <type name="virtualType" type="DasAuto\BladeModule\Model\RedColor">
+        <arguments>
+            <argument name="colorBrightness" xsi:type="object">DasAuto\BladeModule\Model\HighBrightness</argument>
+        </arguments>
+    </type>
+    -->
+
+    <!--
+    <type name="Magento\Catalog\Model\Product">
+        <plugin name="before_set_name"
+                type="DasAuto\BladeModule\Plugin\PluginSolution" sortOrder="10"/>
+    </type>
+    -->
+
+    <type name="DasAuto\BladeModule\Controller\Page\CBlade">
+        <plugin name="plugin_on_execute"
+                type="DasAuto\BladeModule\Plugin\PluginSolution" sortOrder="10" disabled="true"/>
+        <plugin name="plugin2_on_execute"
+            type="DasAuto\BladeModule\Plugin\PluginSolution2" sortOrder="20" disabled="true"/>
+        <plugin name="plugin3_on_execute"
+            type="DasAuto\BladeModule\Plugin\PluginSolution3" sortOrder="30" disabled="true"/>
+
+        <arguments>
+            <argument name="heavyService" xsi:type="object">DasAuto\BladeModule\Model\HeavyService\Proxy</argument>
+        </arguments>
+    </type>
+
+    <type name="DasAuto\BladeModule\Model\Student">
+        <arguments>
+            <argument name="studentName" xsi:type="object">Bob</argument>
+            <argument name="studentAge" xsi:type="object">96</argument>
+            <argument name="studentScores" xsi:type="array">
+                <item name="math" xsi:type="number">100</item>
+                <item name="programming" xsi:type="number">106</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="blade_hello" xsi:type="object">DasAuto\BladeModule\Console\Command\BladeCommand</item>
+            </argument>
+        </arguments>
+    </type>
+</config>
