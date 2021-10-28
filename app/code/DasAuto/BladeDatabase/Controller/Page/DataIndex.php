@@ -32,7 +32,22 @@ class DataIndex extends Action
     public function execute()
     {
         $affiliateMember = $this->affiliateMemberFactory->create();
-        $memberData = $affiliateMember->load(1);
-        var_dump($memberData->getData());
+
+        /*
+        $member = $affiliateMember->load(1);
+        $member->setAddress("Ruzinovska 85, Bratislava");
+        $member->save();
+        var_dump($member->getData());
+        */
+
+        /*
+        $affiliateMember->addData(['name' => "Zozko", 'address' => "HXY, Bratislava", 'status' => true, 'phone_number' => "0905963210"]);
+        $affiliateMember->save();
+        */
+
+        /*
+        $member = $affiliateMember->load(3);
+        $member->delete();
+        */
     }
 }
