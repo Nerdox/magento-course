@@ -25,7 +25,7 @@ class Router implements \Magento\Framework\App\RouterInterface
         $path = trim($request->getPathInfo(), "/");
         $paths = explode("-", $path);
 
-        if (is_array($paths)) {
+        if (is_array($paths) && count($paths) > 2) {
             $request->setModuleName($paths[0]);
             $request->setControllerName($paths[1]);
             $request->setActionName($paths[2]);
