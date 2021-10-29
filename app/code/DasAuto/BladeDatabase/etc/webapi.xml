@@ -28,4 +28,11 @@
             <resource ref="anonymous" />
         </resources>
     </route>
+
+    <route method="DELETE" url="/V1/affiliate_member/:memberId">
+        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="deleteMember" />
+        <resources>
+            <resource ref="anonymous" />
+        </resources>
+    </route>
 </routes>

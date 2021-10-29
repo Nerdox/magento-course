@@ -29,6 +29,14 @@ interface AffiliateMemberRepositoryInterface
     /**
      * @param \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member
      * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface
+     * @throws \Magento\Framework\Exception\AlreadyExistsException
+     * @throws NotFoundException
      */
     public function createOrUpdateMember(\DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member);
+
+    /**
+     * @param integer $memberId
+     * @return boolean
+     */
+    public function deleteMember($memberId);
 }

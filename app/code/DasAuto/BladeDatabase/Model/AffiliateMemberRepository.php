@@ -9,9 +9,9 @@
 namespace DasAuto\BladeDatabase\Model;
 
 use DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface;
-use DasAuto\BladeDatabase\Model\ResourceModel\AffiliateMember\CollectionFactory;
-use DasAuto\BladeDatabase\Model\AffiliateMemberFactory;
 use DasAuto\BladeDatabase\Model\ResourceModel\AffiliateMember as AffiliateMemberResource;
+use DasAuto\BladeDatabase\Model\ResourceModel\AffiliateMember\CollectionFactory;
+use Zxing\NotFoundException;
 
 class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
 {
@@ -34,9 +34,7 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
      */
     public function getMemberList()
     {
-        $factory = $this->collectionFactory->create();
-        $items = $factory->getItems();
-        return $items;
+        return $this->collectionFactory->create()->getItems();
 
         /*$writer = new \Zend\Log\Writer\Stream("C:/xampp/htdocs/magento24/var/log/test.log");
         $logger = new \Zend\Log\Logger();
@@ -47,9 +45,14 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
     /**
      * @param integer $memberId
      * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface
+     * @throws NotFoundException
      */
     public function getMemberById($memberId)
     {
+        if (!$memberId) {
+            return;
+        }
+
         $member = $this->affiliateMemberFactory->create();
         return $member->load($memberId);
     }
@@ -57,6 +60,7 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
     /**
      * @param \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member
      * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface
+     * @throws \Magento\Framework\Exception\AlreadyExistsException
      */
     public function createOrUpdateMember(\DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member)
     {
@@ -73,5 +77,20 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
             $this->affiliateMemberResource->save($ourMember);
             return $ourMember;
         }
+    }
+
+    /**
+     * @param integer $memberId
+     * @return boolean
+     * @throws \Exception
+     */
+    public function deleteMember($memberId)
+    {
+        $member = $this->affiliateMemberFactory->create()->load($memberId);
+        if ($member->delete()) {
+            return true;
+        }
+
+        return false;
     }
 }
