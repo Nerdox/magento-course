@@ -38,6 +38,7 @@ class InstallData implements InstallDataInterface
             [
                 'group' => "Content",
                 'type' => "text",
+                'backend' => \DasAuto\BladeAttribute\Model\Config\BladeValidation::class,
                 'global' => \Magento\Eav\Model\Entity\Attribute\ScopedAttributeInterface::SCOPE_GLOBAL,
                 'visibility' => true,
                 'required' => true,
