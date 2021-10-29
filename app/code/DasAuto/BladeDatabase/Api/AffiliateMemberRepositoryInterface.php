@@ -16,7 +16,19 @@ interface AffiliateMemberRepositoryInterface
 {
     /**
      *
+     * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface[]
+     */
+    public function getMemberList();
+
+    /**
+     * @param integer $memberId
      * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface
      */
-    public function getList();
+    public function getMemberById($memberId);
+
+    /**
+     * @param \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member
+     * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface
+     */
+    public function createOrUpdateMember(\DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface $member);
 }

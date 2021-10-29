@@ -19,72 +19,72 @@ class AffiliateMember extends AbstractModel implements AffiliateMemberInterface
         $this->_init(AffiliateMemberResource::class);
     }
 
-    public function getId()
+    public function getMemberId()
     {
         return $this->getData(AffiliateMemberInterface::memberId);
     }
 
-    public function getName()
+    public function getMemberName()
     {
         return $this->getData(AffiliateMemberInterface::memberName);
     }
 
-    public function getStatus()
+    public function getMemberStatus()
     {
         return $this->getData(AffiliateMemberInterface::memberStatus);
     }
 
-    public function getAddress()
+    public function getMemberAddress()
     {
         return $this->getData(AffiliateMemberInterface::memberAddress);
     }
 
-    public function getPhoneNumber()
+    public function getMemberPhoneNumber()
     {
         return $this->getData(AffiliateMemberInterface::memberPhoneNumber);
     }
 
-    public function getCreatedAt()
+    public function getMemberCreatedAt()
     {
         return $this->getData(AffiliateMemberInterface::memberCreatedAt);
     }
 
-    public function getUpdatedAt()
+    public function getMemberUpdatedAt()
     {
         return $this->getData(AffiliateMemberInterface::memberUpdatedAt);
     }
 
-    public function setId($memberId)
+    public function setMemberId($memberId)
     {
         $this->setData(AffiliateMemberInterface::memberId, $memberId);
     }
 
-    public function setName($memberName)
+    public function setMemberName($memberName)
     {
         $this->setData(AffiliateMemberInterface::memberName, $memberName);
     }
 
-    public function setStatus($memberStatus)
+    public function setMemberStatus($memberStatus)
     {
         $this->setData(AffiliateMemberInterface::memberStatus, $memberStatus);
     }
 
-    public function setAddress($memberAddress)
+    public function setMemberAddress($memberAddress)
     {
         $this->setData(AffiliateMemberInterface::memberAddress, $memberAddress);
     }
 
-    public function setPhoneNumber($memberPhoneNumber)
+    public function setMemberPhoneNumber($memberPhoneNumber)
     {
         $this->setData(AffiliateMemberInterface::memberPhoneNumber, $memberPhoneNumber);
     }
 
-    public function setCreatedAt($memberCreatedAt)
+    public function setMemberCreatedAt($memberCreatedAt)
     {
         $this->setData(AffiliateMemberInterface::memberCreatedAt, $memberCreatedAt);
     }
 
-    public function setUpdatedAt($memberUpdatedAt)
+    public function setMemberUpdatedAt($memberUpdatedAt)
     {
         $this->setData(AffiliateMemberInterface::memberUpdatedAt, $memberUpdatedAt);
     }

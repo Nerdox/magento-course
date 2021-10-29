@@ -2,7 +2,28 @@
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
 
     <route method="GET" url="/V1/affiliate_member">
-        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="getList" />
+        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="getMemberList" />
+        <resources>
+            <resource ref="anonymous" />
+        </resources>
+    </route>
+
+    <route method="GET" url="/V1/affiliate_member/:memberId">
+        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="getMemberById" />
+        <resources>
+            <resource ref="anonymous" />
+        </resources>
+    </route>
+
+    <route method="POST" url="/V1/affiliate_member">
+        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="createOrUpdateMember" />
+        <resources>
+            <resource ref="anonymous" />
+        </resources>
+    </route>
+
+    <route method="PUT" url="/V1/affiliate_member/:memberId">
+        <service class="DasAuto\BladeDatabase\Api\AffiliateMemberRepositoryInterface" method="createOrUpdateMember" />
         <resources>
             <resource ref="anonymous" />
         </resources>

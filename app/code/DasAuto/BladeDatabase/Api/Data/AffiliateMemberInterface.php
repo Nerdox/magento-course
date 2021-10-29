@@ -17,80 +17,81 @@ interface AffiliateMemberInterface
     const memberPhoneNumber = "phone_number";
     const memberCreatedAt = "created_at";
     const memberUpdatedAt = "updated_at";
-    /*
+
+    /**
      * @return integer
      */
-    public function getId();
+    public function getMemberId();
 
-    /*
+    /**
      * @return string
      */
-    public function getName();
+    public function getMemberName();
 
-    /*
+    /**
      * @return boolean
      */
-    public function getStatus();
+    public function getMemberStatus();
 
-    /*
+    /**
      * @return string
      */
-    public function getAddress();
+    public function getMemberAddress();
 
-    /*
+    /**
+     * *@return string
+     */
+    public function getMemberPhoneNumber();
+
+    /**
      * @return string
      */
-    public function getPhoneNumber();
+    public function getMemberCreatedAt();
 
-    /*
-     * @return string
-     */
-    public function getCreatedAt();
-
-    /*
+    /**
      * @return string
     */
-    public function getUpdatedAt();
+    public function getMemberUpdatedAt();
 
-    /*
-     * @param integer $id
+    /**
+     * @param integer $memberId
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setId($memberid);
+    public function setMemberId($memberId);
 
-    /*
-     * @param string $name
+    /**
+     * @param string $memberName
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setName($memberName);
+    public function setMemberName($memberName);
 
-    /*
-     * @param boolean $status
+    /**
+     * @param boolean $memberStatus
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setStatus($memberStatus);
+    public function setMemberStatus($memberStatus);
 
-    /*
-     * @param string $address
+    /**
+     * @param string $memberAddress
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setAddress($memberAddress);
+    public function setMemberAddress($memberAddress);
 
-    /*
-     * @param string PhoneNumber
+    /**
+     * @param string $memberPhoneNumber
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setPhoneNumber($memberPhoneNumber);
+    public function setMemberPhoneNumber($memberPhoneNumber);
 
-    /*
-     * @param string createdAt
+    /**
+     * @param string $memberCreatedAt
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setCreatedAt($memberCreatedAt);
+    public function setMemberCreatedAt($memberCreatedAt);
 
-    /*
-     * @param string updatedAt
+    /**
+     * @param string $memberUpdatedAt
      * @return DasAuto\BladeDatabase\Api\Data\Affiliate_Member_Interface
      */
-    public function setUpdatedAt($memberUpdatedAt);
+    public function setMemberUpdatedAt($memberUpdatedAt);
 }
