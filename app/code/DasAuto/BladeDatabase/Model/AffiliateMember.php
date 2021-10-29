@@ -2,11 +2,11 @@
 
 namespace DasAuto\BladeDatabase\Model;
 
-use Magento\Framework\Model\AbstractModel;
+use Magento\Framework\Model\AbstractExtensibleModel;
 use DasAuto\BladeDatabase\Model\ResourceModel\AffiliateMember as AffiliateMemberResource;
 use DasAuto\BladeDatabase\Api\Data\AffiliateMemberInterface;
 
-class AffiliateMember extends AbstractModel implements AffiliateMemberInterface
+class AffiliateMember extends AbstractExtensibleModel implements AffiliateMemberInterface
 {
     protected function _construct()
     {
@@ -81,5 +81,22 @@ class AffiliateMember extends AbstractModel implements AffiliateMemberInterface
     public function setMemberUpdatedAt($memberUpdatedAt)
     {
         $this->setData(AffiliateMemberInterface::memberUpdatedAt, $memberUpdatedAt);
+    }
+
+    /**
+     * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberExtensionInterface
+     */
+    public function getExtensionAttributes()
+    {
+        return $this->_getExtensionAttributes();
+    }
+
+    /**
+     * @param \DasAuto\BladeDatabase\Api\Data\AffiliateMemberExtensionInterface $affiliateMemberExtension
+     * @return $this
+     */
+    public function setExtensionAttributes(\DasAuto\BladeDatabase\Api\Data\AffiliateMemberExtensionInterface $affiliateMemberExtension)
+    {
+        return $this->_setExtensionAttributes($affiliateMemberExtension);
     }
 }
