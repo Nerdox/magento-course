@@ -8,6 +8,8 @@
 
 namespace DasAuto\BladeDatabase\Api;
 
+use Magento\Framework\Api\SearchCriteriaInterface;
+
 /**
  * Interface AffiliateMemberRepositoryInterface
  * @package DasAuto\BladeDatabase\Api
@@ -39,4 +41,10 @@ interface AffiliateMemberRepositoryInterface
      * @return boolean
      */
     public function deleteMember($memberId);
+
+    /**
+     * @param SearchCriteriaInterface $searchCriteria
+     * @return \DasAuto\BladeDatabase\Api\Data\AffiliateMemberSearchResultInterface
+     */
+    public function getSearchResultsList(SearchCriteriaInterface $searchCriteria);
 }
