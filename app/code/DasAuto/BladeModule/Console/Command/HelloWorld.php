@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 27. 10. 2021
- * Time: 15:19
- */
 
 namespace DasAuto\BladeModule\Console\Command;
 

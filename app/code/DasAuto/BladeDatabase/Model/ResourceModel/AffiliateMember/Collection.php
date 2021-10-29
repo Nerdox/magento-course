@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 28. 10. 2021
- * Time: 12:17
- */
 
 namespace DasAuto\BladeDatabase\Model\ResourceModel\AffiliateMember;
 

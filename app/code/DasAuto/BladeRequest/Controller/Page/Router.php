@@ -1,4 +1,5 @@
 <?php
+
 namespace DasAuto\BladeRequest\Controller\Page;
 
 use Magento\Framework\App\ActionFactory;

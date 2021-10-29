@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 27. 10. 2021
- * Time: 14:41
- */
 
 namespace DasAuto\BladeModule\Console\Command;
 use Symfony\Component\Console\Command\Command;

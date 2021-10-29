@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 28. 10. 2021
- * Time: 13:03
- */
 
 namespace DasAuto\BladeDatabase\Model;
 
@@ -44,11 +38,6 @@ class AffiliateMemberRepository implements AffiliateMemberRepositoryInterface
     public function getMemberList()
     {
         return $this->collectionFactory->create()->getItems();
-
-        /*$writer = new \Zend\Log\Writer\Stream("C:/xampp/htdocs/magento24/var/log/test.log");
-        $logger = new \Zend\Log\Logger();
-        $logger->addWriter($writer);
-        $logger->debug(get_declared_interfaces());*/
     }
 
     /**

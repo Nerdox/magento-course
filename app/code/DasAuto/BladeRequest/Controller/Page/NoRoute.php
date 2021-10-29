@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 27. 10. 2021
- * Time: 16:02
- */
 
 namespace DasAuto\BladeRequest\Controller\Page;
 
