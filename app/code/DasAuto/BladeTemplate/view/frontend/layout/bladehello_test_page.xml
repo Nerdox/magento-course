@@ -11,7 +11,16 @@
         <referenceContainer name="content">
             <!-- Magento\Framework\View\Element\Template -->
             <block class="DasAuto\BladeTemplate\Block\BladeHello" name="hello_blade"
-                   template="DasAuto_BladeTemplate::custom.phtml" />
+                   template="DasAuto_BladeTemplate::custom.phtml">
+
+                <arguments>
+                    <argument name="show_hello" xsi:type="string">layout to template</argument>
+                    <argument name="show_array" xsi:type="array">
+                        <item name="first" xsi:type="string">firstt</item>
+                        <item name="second" xsi:type="string">second arr</item>
+                    </argument>
+                </arguments>
+            </block>
         </referenceContainer>
     </body>
 </page>
