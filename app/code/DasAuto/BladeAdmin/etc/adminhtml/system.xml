@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="Blade_Admin" sortOrder="120" translate="label">
+            <label>Blade Admin</label>
+        </tab>
+
+        <section id="Blade_First_Section" translate="label" sortOrder="120" showInWebsite="1" showInStore="1" showInDefault="1">
+            <label>Blade First Section</label>
+            <tab>Blade_Admin</tab>
+            <resource>DasAuto_BladeAdmin::parent</resource>
+            <group id="Blade_First_Group" showInWebsite="1" showInStore="1" showInDefault="1">
+                <label>First Group</label>
+                <field id="first_field" translate="label" showInWebsite="1" showInStore="1" showInDefault="1"
+                       type="text" sortOrder="100">
+                    <label>First Text Field</label>
+                </field>
+
+                <field id="second_field" translate="label" showInWebsite="1" showInStore="1" showInDefault="1"
+                       type="select" sortOrder="101">
+                    <label>First Select</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+
+                <field id="third_field" translate="label" showInWebsite="1" showInStore="1" showInDefault="1"
+                       type="multiselect" sortOrder="102">
+                    <label>Multi Select</label>
+                    <source_model>DasAuto\BladeAdmin\Model\BladeArray</source_model>
+                </field>
+
+                <field id="fourth_field" translate="label" showInWebsite="1" showInStore="1" showInDefault="1"
+                       type="select" sortOrder="102">
+                    <label>Select options</label>
+                    <source_model>DasAuto\BladeAdmin\Model\BladeArray</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
