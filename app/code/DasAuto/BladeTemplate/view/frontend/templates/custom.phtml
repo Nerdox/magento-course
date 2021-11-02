@@ -1,1 +1,10 @@
-<h1>Called from Custom Blade Template</h1>
+<?php
+$hello = $block->getBladeHello();
+$array = $block->bladeArray();
+
+foreach ($array as $value):
+?>
+    <li><?php echo $value;?></li>
+<?php endforeach; ?>
+
+<h1><?php echo $hello; ?></h1>

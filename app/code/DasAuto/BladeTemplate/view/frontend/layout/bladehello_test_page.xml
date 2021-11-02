@@ -9,7 +9,8 @@
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="content">
-            <block class="Magento\Framework\View\Element\Template" name="hello_blade"
+            <!-- Magento\Framework\View\Element\Template -->
+            <block class="DasAuto\BladeTemplate\Block\BladeHello" name="hello_blade"
                    template="DasAuto_BladeTemplate::custom.phtml" />
         </referenceContainer>
     </body>
