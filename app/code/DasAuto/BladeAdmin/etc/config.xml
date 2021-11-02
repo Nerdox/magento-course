@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <Blade_First_Section>
+            <Blade_First_Group>
+                <first_field>This is default value</first_field>
+
+                <second_field>Yes</second_field>
+
+                <third_field>0</third_field>
+
+                <fourth_field>First</fourth_field>
+            </Blade_First_Group>
+        </Blade_First_Section>
+    </default>
+</config>
