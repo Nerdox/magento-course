@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="DasAuto_BladeAdmin::member" title="Member" translate="title" module="DasAuto_BladeAdmin" sortOrder="200" resource="DasAuto_BladeAdmin::parent"/>
+        <add id="DasAuto_BladeAdmin::affiliate_member" title="Affiliate Member" translate="title" module="DasAuto_BladeAdmin" sortOrder="201" parent="DasAuto_BladeAdmin::member" action="affiliate/member/index" resource="DasAuto_BladeAdmin::parent"/>
+    </menu>
+</config>
