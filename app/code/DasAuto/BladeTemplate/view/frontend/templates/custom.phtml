@@ -1,13 +1,16 @@
 <?php
-$hello = $block->getBladeHello();
-$array = $block->bladeArray();
+/** @var \DasAuto\BladeTemplate\ViewModel\BladeView $viewModel */
+$viewModel = $block->getData("view_model");
 
-foreach ($array as $value):
+$hello = $viewModel->getBladeHello();
+$array = $viewModel->bladeArray();
 ?>
-    <li><?php echo $value;?></li>
-<?php endforeach; ?>
 
 <h1><?php echo $hello; ?></h1>
 
-<h2><?php echo $this->getShowHello(); ?></h2>
-<h2><?php print_r($this->getShowArray()) ?>/</h2>
+<?php foreach ($array as $value): ?>
+    <li><?php echo $value;?></li>
+<?php endforeach; ?>
+
+
+<h3><?php echo $viewModel->getProductName(); ?></h3>

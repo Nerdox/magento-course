@@ -1,28 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: domin
- * Date: 2. 11. 2021
- * Time: 11:22
- */
 
 namespace DasAuto\BladeTemplate\Block;
 
-class BladeHello extends \Magento\Framework\View\Element\Template
+use Magento\Framework\View\Element\Template;
+
+class BladeHello extends Template
 {
-    public function getBladeHello()
-    {
-        return "called from getBladeHello Block";
-    }
-
-    public function bladeArray()
-    {
-        $array = [
-            "bad",
-            "good",
-            "best",
-        ];
-
-        return $array;
-    }
 }

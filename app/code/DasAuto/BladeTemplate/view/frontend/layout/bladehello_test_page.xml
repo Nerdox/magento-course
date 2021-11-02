@@ -14,11 +14,15 @@
                    template="DasAuto_BladeTemplate::custom.phtml">
 
                 <arguments>
+                    <!--
                     <argument name="show_hello" xsi:type="string">layout to template</argument>
                     <argument name="show_array" xsi:type="array">
                         <item name="first" xsi:type="string">firstt</item>
                         <item name="second" xsi:type="string">second arr</item>
                     </argument>
+                    -->
+
+                    <argument name="view_model" xsi:type="object">DasAuto\BladeTemplate\ViewModel\BladeView</argument>
                 </arguments>
             </block>
         </referenceContainer>
