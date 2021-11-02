@@ -11,7 +11,7 @@
         <referenceContainer name="content">
             <!-- Magento\Framework\View\Element\Template -->
             <block class="DasAuto\BladeTemplate\Block\BladeHello" name="hello_blade"
-                   template="DasAuto_BladeTemplate::custom.phtml" <!--cacheable="false"-->>
+                   template="DasAuto_BladeTemplate::custom.phtml"> <!-- cacheable="false" -->
 
                 <arguments>
                     <!--
